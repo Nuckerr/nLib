@@ -8,11 +8,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public final class NLib extends JavaPlugin {
 
-    @Override
-    public void onEnable() {
-        // Plugin startup logic
-
-    }
     public String msg(String message) {
         return ChatColor.translateAlternateColorCodes('&', message);
     }
