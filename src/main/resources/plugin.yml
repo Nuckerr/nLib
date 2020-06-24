@@ -1,0 +1,3 @@
+name: ${pom.name}
+version: ${pom.version}
+description: ${pom.description}
