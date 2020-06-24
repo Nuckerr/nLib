@@ -1,7 +1,0 @@
-name: nLib
-version: ${project.version}
-main: xyz.nucker.nlib.NLib
-load: STARTUP
-authors: [Nucker]
-description: A personal API
-website: nucker.xyz
